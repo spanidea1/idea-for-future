@@ -1,4 +1,4 @@
-# idea-for-future
-# idea-for-future
-# idea-for-future
-# idea-for-future
+a=10
+b=20
+c=a+b
+
